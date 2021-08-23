@@ -1,7 +1,7 @@
 # gLESC
 Source codes of "Generalized Label Enhancement with Sample Correlations" pubilished in IEEE TKDE 2021
 
-<img src="./gLESC_flowchart.png" width="25%">
+<img src="./gLESC_flowchart.png" width="35%">
 
 If you find the codes useful in your research, please cite our work as follows, thanks.
 
